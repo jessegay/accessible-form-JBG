@@ -87,7 +87,7 @@ input, textarea {
     font-family: 'Nunito', sans-serif;
 }
 input:focus, textarea:focus {
-    outline: 3px solid #09f;
+    outline: 6px solid #09f;
 }
 
 .hint {
